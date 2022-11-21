@@ -1,5 +1,5 @@
 import axios from 'axios';
-import standings from './response.json'
+import standings from './standings.json'
 import matches from './matches.json'
 
 const END_POINT = "https://api.football-data.org/v4"
