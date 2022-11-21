@@ -9,6 +9,7 @@ This is a simple project to get some stats about the World Cup 2022 in Qatar.
 4. Open your browser and go to `http://localhost:3000`
 5. Enjoy
 
+- Live demo: https://worldcup2022.osmx.me/
+- **Used API:** [https://www.football-data.org/](https://www.football-data.org/)
+- **DevelopedAt:** `Nov 21 2022`
 
-**Used API:** [https://www.football-data.org/](https://www.football-data.org/)
-**DevelopedAt:** `Nov 21 2022`
