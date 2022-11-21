@@ -10,5 +10,5 @@ This is a simple project to get some stats about the World Cup 2022 in Qatar.
 5. Enjoy
 
 
-**Used API: ** [https://www.football-data.org/](https://www.football-data.org/)
-**DevelopedAt: ** `Nov 21 2022`
+**Used API:** [https://www.football-data.org/](https://www.football-data.org/)
+**DevelopedAt:** `Nov 21 2022`
